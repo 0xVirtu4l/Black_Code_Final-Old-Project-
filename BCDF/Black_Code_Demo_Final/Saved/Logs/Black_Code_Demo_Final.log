@@ -2087,3 +2087,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.18-10.28.38:707][338]LogPlayLevel: Display: Destroying online subsystem :Context_32
 [2021.02.18-10.29.51:751][574]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.02.18-10.29.51:752][574]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.18-10.32.03:316][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.02.18-10.32.03:378][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.02.18-10.32.03:486][141]LogSavePackage: Moving '../../../../../Black Code UE5/Black_Code_Finaaal/BCDF/Black_Code_Demo_Final/Saved/ALS_DemoLevel05ADB3094AD762E64859EC83EF71A403.tmp' to '../../../../../Black Code UE5/Black_Code_Finaaal/BCDF/Black_Code_Demo_Final/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap'
+[2021.02.18-10.32.03:490][141]LogFileHelpers: Saving map 'ALS_DemoLevel' took 0.152
+[2021.02.18-10.32.03:509][141]AssetCheck: New page: Asset Save: ALS_DemoLevel
+[2021.02.18-10.32.03:509][141]LogContentValidation: Display: Validating World /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel
